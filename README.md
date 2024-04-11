@@ -1,2 +1,5 @@
-# ola mundo
- repositorio git e git hub
+# Olá, mundo!
+ repositorio git e Github
+
+
+Repositório criado durante uma aula ao vivo!
